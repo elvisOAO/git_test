@@ -1,6 +1,4 @@
-##HELLO!
-#GOO GAA 
----
+## HI!
 # Robotic Dog Game
 # THI
 #THIS IS GOING TO CREATE A MERGE REQUEST
