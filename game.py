@@ -556,6 +556,7 @@ def main():
         print("Press SPACE to pause, R to reset, C to recharge")
         print("==========================================\n")
         sim.run()
+        # 以上就是运行程序
 
     except ImportError as e:
         print("=" * 60)
